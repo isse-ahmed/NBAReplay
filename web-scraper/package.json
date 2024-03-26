@@ -1,0 +1,17 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Web scraper to scrape play-by-play data from the Basketball-Reference website.",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Issea1",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "got": "^14.2.1",
+    "puppeteer": "^22.6.1"
+  }
+}
