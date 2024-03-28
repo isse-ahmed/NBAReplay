@@ -1,1314 +1,820 @@
 1
 12:00.0
-Start of 1st quarter
-1
-12:00.0
 Jump ball: F. Ezeli vs. T. Thompson (L. James gains possession)
-1
-11:39.0
-J. Smith misses 2-pt jump shot from 5 ft
+Cleveland Cavaliers
 1
 11:36.0
 Defensive rebound by S. Curry
-1
-11:18.0
-F. Ezeli misses 2-pt hook shot from 7 ft
+Golden State Warriors
 1
 11:17.0
 Defensive rebound by L. James
+Cleveland Cavaliers
 1
 11:05.0
 T. Thompson makes 2-pt layup from 3 ft (assist by K. Irving)
-1
-10:44.0
-F. Ezeli misses 2-pt dunk at rim (block by T. Thompson)
+Cleveland Cavaliers
 1
 10:43.0
 Defensive rebound by L. James
+Cleveland Cavaliers
 1
 10:37.0
 L. James makes 2-pt layup from 1 ft (assist by J. Smith)
-1
-10:24.0
-S. Curry misses 3-pt jump shot from 25 ft
+Cleveland Cavaliers
 1
 10:24.0
 Offensive rebound by K. Thompson
+Golden State Warriors
 1
 10:13.0
 D. Green makes 2-pt dunk at rim (assist by F. Ezeli)
-1
-9:47.0
-J. Smith misses 3-pt jump shot from 25 ft
+Golden State Warriors
 1
 9:47.0
 Defensive rebound by H. Barnes
-1
-9:42.0
-Personal foul by T. Thompson
+Golden State Warriors
 1
 9:38.0
 H. Barnes makes 3-pt jump shot from 27 ft (assist by D. Green)
-1
-9:20.0
-L. James misses 2-pt jump shot from 13 ft
+Golden State Warriors
 1
 9:19.0
 Defensive rebound by S. Curry
+Golden State Warriors
 1
 9:06.0
 D. Green makes 3-pt jump shot from 26 ft (assist by H. Barnes)
-1
-8:51.0
-K. Irving misses 2-pt jump shot from 11 ft
+Golden State Warriors
 1
 8:50.0
 Defensive rebound by F. Ezeli
-1
-8:43.0
-K. Thompson misses 3-pt jump shot from 26 ft
+Golden State Warriors
 1
 8:42.0
 Defensive rebound by K. Love
-1
-8:32.0
-K. Love misses 3-pt jump shot from 24 ft
+Cleveland Cavaliers
 1
 8:31.0
 Defensive rebound by Team
-1
-8:14.0
-F. Ezeli misses 2-pt layup from 1 ft (block by T. Thompson)
+Golden State Warriors
 1
 8:13.0
 Defensive rebound by T. Thompson
-1
-8:03.0
-K. Love misses 2-pt jump shot from 3 ft
+Cleveland Cavaliers
 1
 8:03.0
 Offensive rebound by K. Love
-1
-8:03.0
-K. Love misses 2-pt layup from 3 ft
+Cleveland Cavaliers
 1
 8:00.0
 Offensive rebound by K. Love
+Cleveland Cavaliers
 1
 7:58.0
 K. Love makes 2-pt layup from 1 ft
-1
-7:41.0
-H. Barnes misses 2-pt jump shot from 9 ft
+Cleveland Cavaliers
 1
 7:41.0
 Defensive rebound by L. James
-1
-7:34.0
-Turnover by L. James (bad pass)
-1
-7:21.0
-K. Thompson misses 3-pt jump shot from 25 ft
+Cleveland Cavaliers
 1
 7:18.0
 Defensive rebound by T. Thompson
+Cleveland Cavaliers
 1
 7:07.0
 K. Irving makes 2-pt jump shot from 13 ft
-1
-6:58.0
-Golden State full timeout
-1
-6:58.0
-A. Iguodala enters the game for F. Ezeli
+Cleveland Cavaliers
 1
 6:42.0
 S. Curry makes 3-pt jump shot from 26 ft (assist by D. Green)
-1
-6:16.0
-K. Irving misses 2-pt jump shot from 17 ft
+Golden State Warriors
 1
 6:14.0
 Offensive rebound by Team
+Cleveland Cavaliers
 1
 6:04.0
 J. Smith makes 2-pt layup from 2 ft
-1
-5:53.0
-H. Barnes misses 3-pt jump shot from 24 ft
+Cleveland Cavaliers
 1
 5:52.0
 Defensive rebound by L. James
-1
-5:34.0
-Turnover by L. James (bad pass)
-1
-5:34.0
-R. Jefferson enters the game for K. Love
-1
-5:22.0
-Turnover by D. Green (bad pass)
-1
-5:03.0
-Turnover by L. James (lost ball; steal by D. Green)
+Cleveland Cavaliers
 1
 4:50.0
 K. Thompson makes 2-pt jump shot from 12 ft
-1
-4:29.0
-L. James misses 3-pt jump shot from 26 ft
+Golden State Warriors
 1
 4:28.0
 Defensive rebound by D. Green
-1
-4:23.0
-Turnover by S. Curry (lost ball; steal by R. Jefferson)
+Golden State Warriors
 1
 4:16.0
 R. Jefferson makes 2-pt layup from 2 ft (assist by L. James)
-1
-4:00.0
-S. Curry misses 3-pt jump shot from 25 ft
+Cleveland Cavaliers
 1
 3:59.0
 Defensive rebound by L. James
+Cleveland Cavaliers
 1
 3:55.0
 J. Smith makes 2-pt layup from 1 ft (assist by L. James)
+Cleveland Cavaliers
 1
 3:38.0
 K. Thompson makes 3-pt jump shot from 25 ft (assist by D. Green)
+Golden State Warriors
 1
 3:12.0
 L. James makes 2-pt dunk at rim (assist by J. Smith)
-1
-2:53.0
-H. Barnes misses 2-pt jump shot from 17 ft
+Cleveland Cavaliers
 1
 2:52.0
 Defensive rebound by J. Smith
-1
-2:45.0
-L. James misses 2-pt jump shot from 6 ft
+Cleveland Cavaliers
 1
 2:44.0
 Defensive rebound by D. Green
-1
-2:35.0
-H. Barnes misses 2-pt layup from 3 ft
+Golden State Warriors
 1
 2:35.0
 Defensive rebound by T. Thompson
-1
-2:29.0
-Cleveland full timeout
-1
-2:29.0
-A. Varejão enters the game for H. Barnes
-1
-2:29.0
-S. Livingston enters the game for K. Thompson
-1
-2:29.0
-K. Love enters the game for T. Thompson
-1
-2:18.0
-Turnover by K. Irving (bad pass; steal by A. Iguodala)
+Cleveland Cavaliers
 1
 2:00.0
 S. Curry makes 3-pt jump shot from 23 ft (assist by A. Varejão)
+Golden State Warriors
 1
 1:40.0
 K. Irving makes 2-pt jump shot from 16 ft (assist by L. James)
-1
-1:36.0
-Personal take foul by K. Love
-1
-1:36.0
-I. Shumpert enters the game for L. James
+Cleveland Cavaliers
 1
 1:26.0
 D. Green makes 2-pt layup from 1 ft
-1
-1:06.0
-R. Jefferson misses 2-pt jump shot from 11 ft
+Golden State Warriors
 1
 1:06.0
 Offensive rebound by K. Love
-1
-1:06.0
-Shooting foul by S. Curry (drawn by K. Love)
+Cleveland Cavaliers
 1
 1:06.0
 K. Love makes free throw 1 of 2
-1
-1:06.0
-H. Barnes enters the game for D. Green
-1
-1:06.0
-K. Love misses free throw 2 of 2
+Cleveland Cavaliers
 1
 1:06.0
 Defensive rebound by A. Iguodala
-1
-0:54.0
-A. Iguodala misses 3-pt jump shot from 24 ft
+Golden State Warriors
 1
 0:53.0
 Defensive rebound by K. Love
-1
-0:43.0
-J. Smith misses 3-pt jump shot from 24 ft
+Cleveland Cavaliers
 1
 0:43.0
 Offensive rebound by K. Love
-1
-0:38.0
-Shooting foul by A. Varejão (drawn by K. Love)
+Cleveland Cavaliers
 1
 0:38.0
 K. Love makes free throw 1 of 2
+Cleveland Cavaliers
 1
 0:38.0
 K. Love makes free throw 2 of 2
-1
-0:25.0
-Shooting foul by K. Love (drawn by A. Varejão)
+Cleveland Cavaliers
 1
 0:25.0
 A. Varejão makes free throw 1 of 2
-1
-0:25.0
-L. Barbosa enters the game for S. Curry
-1
-0:25.0
-L. James enters the game for I. Shumpert
-1
-0:25.0
-A. Varejão misses free throw 2 of 2
+Golden State Warriors
 1
 0:25.0
 Defensive rebound by K. Love
-1
-0:04.0
-Shooting foul by L. Barbosa (drawn by L. James)
+Cleveland Cavaliers
 1
 0:04.0
 L. James makes free throw 1 of 2
-1
-0:04.0
-M. Speights enters the game for S. Livingston
-1
-0:04.0
-S. Curry enters the game for A. Varejão
-1
-0:04.0
-K. Thompson enters the game for H. Barnes
-1
-0:04.0
-I. Shumpert enters the game for K. Love
+Cleveland Cavaliers
 1
 0:04.0
 L. James makes free throw 2 of 2
-2
-0:00.0
-End of 1st quarter
-2
-12:00.0
-Start of 2nd quarter
+Cleveland Cavaliers
 2
 11:42.0
 S. Livingston makes 2-pt jump shot from 16 ft (assist by D. Green)
-2
-11:26.0
-R. Jefferson misses 2-pt jump shot from 5 ft (block by M. Speights)
+Golden State Warriors
 2
 11:24.0
 Offensive rebound by R. Jefferson
-2
-11:20.0
-I. Shumpert misses 3-pt jump shot from 27 ft
+Cleveland Cavaliers
 2
 11:19.0
 Defensive rebound by M. Speights
-2
-11:12.0
-Violation by I. Shumpert (kicked ball)
-2
-11:11.0
-Offensive foul by K. Thompson (drawn by I. Shumpert)
-2
-11:11.0
-Turnover by K. Thompson (offensive foul)
-2
-10:53.0
-M. Williams misses 3-pt jump shot from 26 ft
+Golden State Warriors
 2
 10:52.0
 Defensive rebound by M. Speights
-2
-10:43.0
-S. Livingston misses 2-pt jump shot from 15 ft
+Golden State Warriors
 2
 10:42.0
 Defensive rebound by R. Jefferson
+Cleveland Cavaliers
 2
 10:33.0
 L. James makes 2-pt layup from 3 ft
-2
-10:18.0
-Personal foul by M. Williams
-2
-10:08.0
-D. Green misses 2-pt layup from 1 ft
+Cleveland Cavaliers
 2
 10:07.0
 Offensive rebound by M. Speights
-2
-10:07.0
-M. Speights misses 2-pt layup from 2 ft
+Golden State Warriors
 2
 10:07.0
 Defensive rebound by Team
-2
-9:51.0
-L. James misses 2-pt jump shot from 3 ft (block by M. Speights)
+Cleveland Cavaliers
 2
 9:50.0
 Defensive rebound by K. Thompson
-2
-9:45.0
-K. Thompson misses 3-pt jump shot from 28 ft
+Golden State Warriors
 2
 9:45.0
 Offensive rebound by Team
-2
-9:45.0
-Loose ball foul by T. Thompson
-2
-9:34.0
-S. Livingston misses 2-pt jump shot from 13 ft
+Golden State Warriors
 2
 9:33.0
 Offensive rebound by S. Livingston
+Golden State Warriors
 2
 9:33.0
 S. Livingston makes 2-pt layup from 13 ft
-2
-9:20.0
-M. Williams misses 2-pt layup from 2 ft
+Golden State Warriors
 2
 9:19.0
 Defensive rebound by D. Green
-2
-9:15.0
-Turnover by D. Green (lost ball; steal by L. James)
+Golden State Warriors
 2
 9:10.0
 M. Williams makes 2-pt layup from 2 ft (assist by L. James)
+Cleveland Cavaliers
 2
 8:49.0
 D. Green makes 3-pt jump shot from 26 ft (assist by A. Iguodala)
-2
-8:24.0
-Turnover by M. Williams (step out of bounds)
-2
-8:24.0
-Official timeout
-2
-8:24.0
-J. Smith enters the game for T. Thompson
-2
-8:24.0
-K. Irving enters the game for R. Jefferson
-2
-8:24.0
-K. Love enters the game for M. Williams
-2
-8:08.0
-D. Green misses 2-pt jump shot from 17 ft
+Golden State Warriors
 2
 8:08.0
 Defensive rebound by L. James
-2
-8:00.0
-K. Love misses 3-pt jump shot from 25 ft
+Cleveland Cavaliers
 2
 7:59.0
 Defensive rebound by A. Iguodala
-2
-7:41.0
-S. Curry enters the game for M. Speights
-2
-7:41.0
-H. Barnes enters the game for A. Iguodala
-2
-7:38.0
-K. Thompson misses 3-pt jump shot from 26 ft
+Golden State Warriors
 2
 7:37.0
 Defensive rebound by K. Irving
-2
-7:25.0
-J. Smith misses 3-pt jump shot from 26 ft
+Cleveland Cavaliers
 2
 7:24.0
 Offensive rebound by Team
-2
-7:24.0
-Personal foul by H. Barnes
-2
-7:13.0
-Violation by D. Green (kicked ball)
+Cleveland Cavaliers
 2
 7:02.0
 I. Shumpert makes 3-pt jump shot from 24 ft (assist by L. James)
-2
-7:02.0
-Shooting foul by S. Livingston (drawn by I. Shumpert)
+Cleveland Cavaliers
 2
 7:02.0
 I. Shumpert makes free throw 1 of 1
+Cleveland Cavaliers
 2
 6:52.0
 S. Curry makes 2-pt layup from 2 ft (assist by D. Green)
-2
-6:52.0
-Shooting foul by K. Irving (drawn by S. Curry)
+Golden State Warriors
 2
 6:52.0
 S. Curry makes free throw 1 of 1
-2
-6:36.0
-Personal foul by S. Curry
-2
-6:29.0
-K. Irving misses 2-pt jump shot from 11 ft
+Golden State Warriors
 2
 6:29.0
 Offensive rebound by L. James
-2
-6:26.0
-L. James misses 2-pt layup from 2 ft
+Cleveland Cavaliers
 2
 6:24.0
 Defensive rebound by D. Green
-2
-6:19.0
-Turnover by S. Livingston (lost ball; steal by K. Love)
+Golden State Warriors
 2
 6:10.0
 L. James makes 2-pt layup at rim (assist by K. Love)
+Cleveland Cavaliers
 2
 5:56.0
 D. Green makes 3-pt jump shot from 27 ft (assist by K. Thompson)
-2
-5:43.0
-Offensive foul by J. Smith (drawn by S. Curry)
-2
-5:43.0
-Turnover by J. Smith (offensive foul)
-2
-5:43.0
-Golden State full timeout
-2
-5:43.0
-A. Iguodala enters the game for H. Barnes
-2
-5:43.0
-A. Varejão enters the game for S. Livingston
-2
-5:33.0
-K. Thompson misses 2-pt jump shot from 20 ft
+Golden State Warriors
 2
 5:32.0
 Defensive rebound by I. Shumpert
-2
-5:13.0
-K. Irving misses 3-pt jump shot from 25 ft
+Cleveland Cavaliers
 2
 5:13.0
 Defensive rebound by S. Curry
-2
-5:07.0
-S. Curry misses 2-pt layup from 3 ft (block by L. James)
+Golden State Warriors
 2
 5:06.0
 Offensive rebound by Team
-2
-4:57.0
-K. Thompson misses 2-pt layup from 3 ft
+Golden State Warriors
 2
 4:57.0
 Offensive rebound by A. Iguodala
-2
-4:50.0
-S. Curry misses 3-pt jump shot from 26 ft
+Golden State Warriors
 2
 4:50.0
 Defensive rebound by J. Smith
+Cleveland Cavaliers
 2
 4:28.0
 K. Irving makes 2-pt jump shot from 7 ft
+Cleveland Cavaliers
 2
 4:09.0
 D. Green makes 3-pt jump shot from 26 ft (assist by A. Iguodala)
+Golden State Warriors
 2
 3:59.0
 K. Irving makes 2-pt jump shot from 7 ft
-2
-3:59.0
-Shooting foul by K. Thompson (drawn by K. Irving)
-2
-3:59.0
-R. Jefferson enters the game for K. Love
+Cleveland Cavaliers
 2
 3:59.0
 K. Irving makes free throw 1 of 1
-2
-3:59.0
-Golden State full timeout
-2
-3:59.0
-L. Barbosa enters the game for A. Varejão
+Cleveland Cavaliers
 2
 3:45.0
 D. Green makes 3-pt jump shot from 26 ft (assist by A. Iguodala)
+Golden State Warriors
 2
 3:31.0
 L. James makes 2-pt jump shot from 6 ft
-2
-3:31.0
-Shooting foul by A. Iguodala (drawn by L. James)
-2
-3:31.0
-L. James misses free throw 1 of 1
+Cleveland Cavaliers
 2
 3:30.0
 Defensive rebound by D. Green
-2
-3:16.0
-L. Barbosa misses 2-pt jump shot from 3 ft (block by L. James)
+Golden State Warriors
 2
 3:15.0
 Defensive rebound by R. Jefferson
-2
-3:08.0
-I. Shumpert misses 3-pt jump shot from 24 ft
+Cleveland Cavaliers
 2
 3:07.0
 Defensive rebound by D. Green
-2
-2:57.0
-K. Thompson misses 3-pt jump shot from 25 ft
+Golden State Warriors
 2
 2:57.0
 Defensive rebound by J. Smith
-2
-2:48.0
-K. Irving misses 3-pt jump shot from 26 ft
+Cleveland Cavaliers
 2
 2:47.0
 Defensive rebound by A. Iguodala
+Golden State Warriors
 2
 2:27.0
 D. Green makes 2-pt layup from 2 ft
-2
-2:27.0
-Shooting foul by J. Smith (drawn by D. Green)
-2
-2:27.0
-Cleveland full timeout
+Golden State Warriors
 2
 2:27.0
 D. Green makes free throw 1 of 1
-2
-2:17.0
-Turnover by L. James (bad pass; steal by A. Iguodala)
+Golden State Warriors
 2
 2:08.0
 L. Barbosa makes 3-pt jump shot from 23 ft (assist by K. Thompson)
-2
-1:45.0
-J. Smith misses 3-pt jump shot from 25 ft
+Golden State Warriors
 2
 1:44.0
 Offensive rebound by Team
+Cleveland Cavaliers
 2
 1:35.0
 Jump ball: D. Green vs. K. Irving (L. Barbosa gains possession)
-2
-1:35.0
-Turnover by K. Irving (lost ball; steal by D. Green)
-2
-1:18.0
-S. Curry misses 3-pt jump shot from 27 ft
+Cleveland Cavaliers
 2
 1:17.0
 Defensive rebound by R. Jefferson
-2
-1:09.0
-Personal foul by S. Curry
+Cleveland Cavaliers
 2
 1:09.0
 I. Shumpert makes free throw 1 of 2
-2
-1:09.0
-S. Livingston enters the game for S. Curry
-2
-1:09.0
-M. Williams enters the game for J. Smith
+Cleveland Cavaliers
 2
 1:09.0
 I. Shumpert makes free throw 2 of 2
+Cleveland Cavaliers
 2
 0:51.0
 A. Iguodala makes 2-pt jump shot from 11 ft
-2
-0:30.0
-L. James misses 3-pt jump shot from 26 ft
+Golden State Warriors
 2
 0:30.0
 Defensive rebound by A. Iguodala
-2
-0:04.0
-S. Livingston misses 2-pt jump shot from 18 ft
+Golden State Warriors
 2
 0:04.0
 Defensive rebound by R. Jefferson
-3
-0:00.0
-End of 2nd quarter
-3
-12:00.0
-Start of 3rd quarter
-3
-11:49.0
-F. Ezeli misses 2-pt jump shot from 3 ft
+Cleveland Cavaliers
 3
 11:49.0
 Defensive rebound by K. Love
+Cleveland Cavaliers
 3
 11:38.0
 J. Smith makes 2-pt jump shot from 21 ft
-3
-11:24.0
-D. Green misses 3-pt jump shot from 27 ft
+Cleveland Cavaliers
 3
 11:23.0
 Defensive rebound by Team
-3
-11:23.0
-Loose ball foul by F. Ezeli
+Cleveland Cavaliers
 3
 11:11.0
 T. Thompson makes 2-pt jump shot from 8 ft (assist by L. James)
+Cleveland Cavaliers
 3
 11:01.0
 K. Thompson makes 3-pt jump shot from 25 ft (assist by S. Curry)
-3
-10:45.0
-K. Irving misses 2-pt jump shot from 19 ft
+Golden State Warriors
 3
 10:44.0
 Defensive rebound by D. Green
+Golden State Warriors
 3
 10:33.0
 K. Thompson makes 2-pt jump shot from 8 ft
+Golden State Warriors
 3
 10:08.0
 J. Smith makes 3-pt jump shot from 25 ft (assist by L. James)
-3
-9:56.0
-H. Barnes misses 2-pt jump shot from 20 ft
+Cleveland Cavaliers
 3
 9:54.0
 Defensive rebound by K. Love
-3
-9:50.0
-Personal foul by H. Barnes
+Cleveland Cavaliers
 3
 9:34.0
 J. Smith makes 3-pt jump shot from 26 ft (assist by L. James)
-3
-9:11.0
-Turnover by K. Thompson (bad pass; steal by J. Smith)
+Cleveland Cavaliers
 3
 8:53.0
 K. Irving makes 2-pt layup from 2 ft
-3
-8:53.0
-Golden State full timeout
-3
-8:53.0
-A. Iguodala enters the game for H. Barnes
-3
-8:53.0
-A. Varejão enters the game for F. Ezeli
-3
-8:43.0
-Personal foul by J. Smith
-3
-8:30.0
-K. Thompson misses 3-pt jump shot from 26 ft
+Cleveland Cavaliers
 3
 8:30.0
 Defensive rebound by K. Irving
-3
-8:25.0
-J. Smith misses 2-pt jump shot from 10 ft (block by S. Curry)
+Cleveland Cavaliers
 3
 8:24.0
 Defensive rebound by S. Curry
+Golden State Warriors
 3
 8:21.0
 S. Curry makes 2-pt layup from 1 ft
-3
-8:04.0
-Turnover by J. Smith (lost ball; steal by S. Curry)
-3
-7:58.0
-Turnover by K. Thompson (bad pass; steal by L. James)
-3
-7:50.0
-L. James misses 2-pt jump shot from 17 ft
+Golden State Warriors
 3
 7:50.0
 Defensive rebound by Team
-3
-7:50.0
-Loose ball foul by T. Thompson
+Golden State Warriors
 3
 7:40.0
 S. Curry makes 3-pt jump shot from 26 ft (assist by A. Iguodala)
-3
-7:38.0
-Cleveland full timeout
+Golden State Warriors
 3
 7:14.0
 K. Love makes 2-pt layup from 3 ft (assist by L. James)
-3
-6:50.0
-A. Varejão misses 2-pt jump shot from 3 ft (block by K. Irving)
+Cleveland Cavaliers
 3
 6:49.0
 Defensive rebound by K. Love
-3
-6:44.0
-Shooting foul by A. Iguodala (drawn by L. James)
+Cleveland Cavaliers
 3
 6:44.0
 L. James makes free throw 1 of 2
+Cleveland Cavaliers
 3
 6:44.0
 L. James makes free throw 2 of 2
-3
-6:30.0
-Turnover by S. Curry (bad pass; steal by K. Love)
+Cleveland Cavaliers
 3
 6:24.0
 K. Irving makes 2-pt layup from 2 ft (assist by K. Love)
-3
-5:55.0
-A. Iguodala misses 3-pt jump shot from 26 ft
+Cleveland Cavaliers
 3
 5:55.0
 Defensive rebound by K. Love
-3
-5:47.0
-Violation by S. Curry (kicked ball)
-3
-5:33.0
-L. James misses 3-pt jump shot from 30 ft
+Cleveland Cavaliers
 3
 5:32.0
 Offensive rebound by K. Irving
-3
-5:32.0
-K. Irving misses 2-pt jump shot from 7 ft
+Cleveland Cavaliers
 3
 5:32.0
 Offensive rebound by Team
-3
-5:32.0
-Loose ball foul by A. Varejão
-3
-5:21.0
-J. Smith misses 3-pt jump shot from 23 ft
+Cleveland Cavaliers
 3
 5:21.0
 Defensive rebound by Team
-3
-5:05.0
-S. Curry misses 3-pt jump shot from 25 ft
+Golden State Warriors
 3
 5:04.0
 Offensive rebound by Team
-3
-4:59.0
-K. Thompson misses 3-pt jump shot from 26 ft
+Golden State Warriors
 3
 4:59.0
 Defensive rebound by L. James
-3
-4:51.0
-Personal foul by A. Varejão
+Cleveland Cavaliers
 3
 4:51.0
 K. Irving makes free throw 1 of 2
+Cleveland Cavaliers
 3
 4:51.0
 K. Irving makes free throw 2 of 2
-3
-4:38.0
-Turnover by S. Curry (bad pass; steal by K. Irving)
-3
-4:33.0
-Shooting foul by D. Green (drawn by K. Irving)
+Cleveland Cavaliers
 3
 4:33.0
 K. Irving makes 2-pt jump shot from 5 ft
+Cleveland Cavaliers
 3
 4:33.0
 K. Irving makes free throw 1 of 1
-3
-4:33.0
-Golden State full timeout
-3
-4:33.0
-H. Barnes enters the game for A. Varejão
+Cleveland Cavaliers
 3
 4:22.0
 H. Barnes makes 2-pt dunk at rim (assist by D. Green)
+Golden State Warriors
 3
 4:00.0
 K. Irving makes 3-pt jump shot from 26 ft
-3
-3:37.0
-Shooting foul by K. Irving (drawn by H. Barnes)
+Cleveland Cavaliers
 3
 3:37.0
 H. Barnes makes free throw 1 of 2
+Golden State Warriors
 3
 3:37.0
 H. Barnes makes free throw 2 of 2
-3
-3:18.0
-Personal foul by D. Green
+Golden State Warriors
 3
 3:18.0
 T. Thompson makes free throw 1 of 2
-3
-3:18.0
-S. Livingston enters the game for K. Thompson
+Cleveland Cavaliers
 3
 3:18.0
 T. Thompson makes free throw 2 of 2
-3
-3:03.0
-Shooting foul by L. James (drawn by D. Green)
+Cleveland Cavaliers
 3
 3:03.0
 D. Green makes free throw 1 of 3
-3
-3:03.0
-R. Jefferson enters the game for K. Love
+Golden State Warriors
 3
 3:03.0
 D. Green makes free throw 2 of 3
+Golden State Warriors
 3
 3:03.0
 D. Green makes free throw 3 of 3
-3
-2:42.0
-L. James misses 2-pt jump shot from 5 ft
+Golden State Warriors
 3
 2:42.0
 Offensive rebound by Team
-3
-2:42.0
-Loose ball foul by H. Barnes
+Cleveland Cavaliers
 3
 2:42.0
 T. Thompson makes free throw 1 of 2
-3
-2:42.0
-T. Thompson misses free throw 2 of 2
+Cleveland Cavaliers
 3
 2:42.0
 Defensive rebound by D. Green
+Golden State Warriors
 3
 2:30.0
 D. Green makes 3-pt jump shot from 27 ft (assist by S. Livingston)
-3
-2:03.0
-L. James misses 2-pt jump shot from 17 ft
+Golden State Warriors
 3
 2:01.0
 Defensive rebound by S. Curry
+Golden State Warriors
 3
 1:56.0
 S. Livingston makes 2-pt dunk at rim (assist by S. Curry)
-3
-1:56.0
-Cleveland full timeout
+Golden State Warriors
 3
 1:36.0
 L. James makes 2-pt jump shot from 12 ft
+Cleveland Cavaliers
 3
 1:19.0
 H. Barnes makes 3-pt jump shot from 23 ft (assist by D. Green)
+Golden State Warriors
 3
 0:54.0
 T. Thompson makes 2-pt hook shot from 5 ft (assist by L. James)
-3
-0:43.0
-S. Curry misses 2-pt layup from 2 ft
+Cleveland Cavaliers
 3
 0:43.0
 Offensive rebound by A. Iguodala
-3
-0:29.0
-S. Curry misses 3-pt jump shot from 25 ft
+Golden State Warriors
 3
 0:28.0
 Defensive rebound by R. Jefferson
-3
-0:16.0
-K. Irving misses 2-pt jump shot from 13 ft
+Cleveland Cavaliers
 3
 0:16.0
 Defensive rebound by A. Iguodala
+Golden State Warriors
 3
 0:04.0
 A. Iguodala makes 2-pt hook shot from 2 ft (assist by S. Livingston)
-3
-0:01.0
-K. Irving misses 3-pt jump shot from 46 ft
+Golden State Warriors
 3
 0:00.0
 Offensive rebound by Team
-4
-0:00.0
-End of 3rd quarter
-4
-12:00.0
-Start of 4th quarter
+Cleveland Cavaliers
 4
 11:34.0
 L. James makes 2-pt jump shot from 5 ft (assist by K. Love)
-4
-11:14.0
-S. Livingston misses 2-pt jump shot from 13 ft
+Cleveland Cavaliers
 4
 11:13.0
 Defensive rebound by K. Love
-4
-10:50.0
-L. James misses 3-pt jump shot from 28 ft
+Cleveland Cavaliers
 4
 10:49.0
 Offensive rebound by Team
-4
-10:49.0
-Loose ball foul by A. Iguodala
+Cleveland Cavaliers
 4
 10:35.0
 K. Love makes 2-pt hook shot from 7 ft (assist by L. James)
-4
-10:16.0
-H. Barnes misses 2-pt jump shot from 16 ft
+Cleveland Cavaliers
 4
 10:15.0
 Defensive rebound by L. James
-4
-10:06.0
-Turnover by K. Love (bad pass; steal by K. Thompson)
-4
-9:56.0
-Shooting foul by K. Irving (drawn by S. Livingston)
+Cleveland Cavaliers
 4
 9:56.0
 S. Livingston makes free throw 1 of 2
+Golden State Warriors
 4
 9:56.0
 S. Livingston makes free throw 2 of 2
-4
-9:37.0
-Turnover by L. James (bad pass; steal by H. Barnes)
-4
-9:25.0
-K. Thompson misses 3-pt jump shot from 25 ft
+Golden State Warriors
 4
 9:25.0
 Defensive rebound by R. Jefferson
-4
-9:06.0
-K. Irving misses 2-pt jump shot from 7 ft
+Cleveland Cavaliers
 4
 9:05.0
 Offensive rebound by K. Irving
+Cleveland Cavaliers
 4
 9:05.0
 K. Irving makes 2-pt layup from 7 ft
-4
-9:05.0
-Golden State full timeout
-4
-9:05.0
-S. Curry enters the game for S. Livingston
+Cleveland Cavaliers
 4
 8:43.0
 D. Green makes 2-pt layup from 2 ft
-4
-8:16.0
-K. Love misses 3-pt jump shot from 23 ft
+Golden State Warriors
 4
 8:16.0
 Defensive rebound by H. Barnes
-4
-7:58.0
-H. Barnes misses 3-pt jump shot from 26 ft
+Golden State Warriors
 4
 7:57.0
 Defensive rebound by K. Irving
-4
-7:46.0
-K. Irving misses 2-pt jump shot from 12 ft
+Cleveland Cavaliers
 4
 7:45.0
 Defensive rebound by D. Green
-4
-7:40.0
-Shooting foul by R. Jefferson (drawn by A. Iguodala)
-4
-7:40.0
-A. Iguodala misses free throw 1 of 2
+Golden State Warriors
 4
 7:40.0
 Offensive rebound by Team
-4
-7:40.0
-T. Thompson enters the game for K. Love
-4
-7:40.0
-J. Smith enters the game for K. Irving
-4
-7:40.0
-A. Iguodala misses free throw 2 of 2
+Golden State Warriors
 4
 7:38.0
 Defensive rebound by R. Jefferson
+Cleveland Cavaliers
 4
 7:15.0
 L. James makes 2-pt jump shot from 5 ft
+Cleveland Cavaliers
 4
 6:57.0
 S. Curry makes 3-pt jump shot from 27 ft
-4
-6:29.0
-J. Smith misses 3-pt jump shot from 26 ft
+Golden State Warriors
 4
 6:28.0
 Defensive rebound by A. Iguodala
+Golden State Warriors
 4
 6:18.0
 K. Thompson makes 2-pt jump shot from 20 ft (assist by D. Green)
-4
-6:16.0
-Cleveland full timeout
-4
-6:16.0
-K. Irving enters the game for I. Shumpert
-4
-6:16.0
-F. Ezeli enters the game for H. Barnes
-4
-5:53.0
-R. Jefferson misses 2-pt jump shot from 16 ft
+Golden State Warriors
 4
 5:53.0
 Defensive rebound by D. Green
-4
-5:38.0
-S. Curry misses 2-pt jump shot from 10 ft
+Golden State Warriors
 4
 5:37.0
 Offensive rebound by D. Green
+Golden State Warriors
 4
 5:37.0
 D. Green makes 2-pt layup from 2 ft
-4
-5:24.0
-Shooting foul by F. Ezeli (drawn by L. James)
+Golden State Warriors
 4
 5:24.0
 L. James makes free throw 1 of 3
+Cleveland Cavaliers
 4
 5:24.0
 L. James makes free throw 2 of 3
+Cleveland Cavaliers
 4
 5:24.0
 L. James makes free throw 3 of 3
-4
-5:16.0
-Turnover by S. Curry (bad pass)
+Cleveland Cavaliers
 4
 4:53.0
 L. James makes 3-pt jump shot from 26 ft
+Cleveland Cavaliers
 4
 4:39.0
 K. Thompson makes 2-pt layup from 2 ft (assist by D. Green)
-4
-4:14.0
-L. James misses 2-pt jump shot from 22 ft
+Golden State Warriors
 4
 4:13.0
 Defensive rebound by D. Green
-4
-4:06.0
-S. Curry misses 3-pt jump shot from 27 ft
+Golden State Warriors
 4
 4:04.0
 Defensive rebound by R. Jefferson
-4
-3:41.0
-L. James misses 2-pt jump shot from 13 ft
+Cleveland Cavaliers
 4
 3:40.0
 Defensive rebound by Team
-4
-3:40.0
-H. Barnes enters the game for F. Ezeli
-4
-3:40.0
-K. Love enters the game for R. Jefferson
-4
-3:22.0
-K. Thompson misses 2-pt jump shot from 15 ft
+Golden State Warriors
 4
 3:21.0
 Defensive rebound by K. Love
-4
-3:00.0
-L. James misses 2-pt layup from 2 ft (block by A. Iguodala)
+Cleveland Cavaliers
 4
 2:59.0
 Defensive rebound by D. Green
-4
-2:50.0
-A. Iguodala misses 3-pt jump shot from 24 ft
+Golden State Warriors
 4
 2:50.0
 Defensive rebound by L. James
-4
-2:50.0
-Personal foul by S. Curry
-4
-2:50.0
-Official timeout
-4
-2:32.0
-K. Love misses 2-pt hook shot from 10 ft
+Cleveland Cavaliers
 4
 2:32.0
 Defensive rebound by D. Green
-4
-2:13.0
-D. Green misses 3-pt jump shot from 25 ft
+Golden State Warriors
 4
 2:12.0
 Defensive rebound by Team
-4
-1:55.0
-K. Irving misses 2-pt jump shot from 5 ft
+Cleveland Cavaliers
 4
 1:55.0
 Defensive rebound by A. Iguodala
-4
-1:50.0
-A. Iguodala misses 2-pt layup from 3 ft (block by L. James)
+Golden State Warriors
 4
 1:49.0
 Defensive rebound by J. Smith
-4
-1:25.0
-L. James misses 2-pt jump shot from 5 ft
+Cleveland Cavaliers
 4
 1:24.0
 Defensive rebound by D. Green
-4
-1:14.0
-S. Curry misses 3-pt jump shot from 26 ft
+Golden State Warriors
 4
 1:13.0
 Defensive rebound by K. Love
-4
-1:09.0
-Cleveland full timeout
-4
-1:09.0
-R. Jefferson enters the game for T. Thompson
+Cleveland Cavaliers
 4
 0:53.0
 K. Irving makes 3-pt jump shot from 25 ft
-4
-0:31.0
-S. Curry misses 3-pt jump shot from 26 ft
+Cleveland Cavaliers
 4
 0:30.0
 Defensive rebound by L. James
-4
-0:23.0
-K. Irving misses 2-pt layup from 3 ft (block by A. Iguodala)
+Cleveland Cavaliers
 4
 0:22.0
 Offensive rebound by K. Irving
-4
-0:19.0
-Personal foul by H. Barnes
-4
-0:11.0
-Shooting foul by D. Green (drawn by L. James)
-4
-0:11.0
-Cleveland full timeout
-4
-0:11.0
-L. James misses free throw 1 of 2
+Cleveland Cavaliers
 4
 0:11.0
 Offensive rebound by Team
-4
-0:11.0
-T. Thompson enters the game for K. Love
+Cleveland Cavaliers
 4
 0:11.0
 L. James makes free throw 2 of 2
-4
-0:11.0
-Golden State full timeout
-4
-0:11.0
-M. Speights enters the game for H. Barnes
-4
-0:11.0
-I. Shumpert enters the game for R. Jefferson
-4
-0:07.0
-Personal foul by T. Thompson
-4
-0:02.0
-S. Curry misses 3-pt jump shot from 26 ft
+Cleveland Cavaliers
 4
 0:02.0
 Offensive rebound by M. Speights
-4
-0:01.0
-M. Speights misses 3-pt jump shot from 24 ft
+Golden State Warriors
 4
 0:00.0
 Offensive rebound by Team
-5
-0:00.0
-End of 4th quarter
+Golden State Warriors
