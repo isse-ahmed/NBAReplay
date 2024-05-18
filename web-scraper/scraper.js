@@ -11,85 +11,98 @@ import got from 'got';
 import cheerio from 'cheerio';
 import fs from 'node:fs';
 
-//Getting HTML
-let url = "https://www.basketball-reference.com/boxscores/pbp/201606190GSW.html";
-let response = await got(url);
-let responseHTML = response.body;
-const $ = cheerio.load(responseHTML);
-const teamNames = $('.scorebox').find('strong');
-let gameDate = $('.scorebox_meta').find('div:first-child').text().trim().replaceAll(" ","");
-let stream;
-let gameID;
-//Variables for play-by-play information
-let quarter = 1
-let homeTeam;
-let awayTeam;
-let teamCounter = 0;
+//URL of the Play-by-play on the Basketball Reference Website
+const url = "https://www.basketball-reference.com/boxscores/pbp/201605280OKC.html";
+const response = await got(url);
 
-//Path for saved File
-let filePath = "exportedPBP/";
+function main()
+{
+    //Variables for getting HTML
+    let responseHTML = response.body;
+    const $ = cheerio.load(responseHTML);
+    let stream;
+    let gameID;
 
-//Getting Team Names
-teamNames.each(function(){
-    let teamName = $(this).text().trim();
+    //HTML containing the team names
+    const teamNames = $('.scorebox').find('strong');
 
-    if(teamCounter === 0)
-    {
-        awayTeam = teamName;
-    }
-    else
-    {
-        homeTeam = teamName;
-    }
+    //Variables for play-by-play information
+    let homeTeam;
+    let awayTeam;
+    let teamCounter = 0;
 
-    teamCounter++;
-})
+    //Getting date information
+    let gameDate = $('.scorebox_meta').find('div:first-child').text().trim().replaceAll(" ","");
 
-//Creating file path
-filePath = filePath.concat(awayTeam.replaceAll(" ","-"),"vs");
-filePath = filePath.concat(homeTeam.replaceAll(" ", "-"),gameDate);
-filePath = filePath.concat(".txt");
+    //Path for saved File
+    let filePath = "exportedPBP/";
 
-//Creating GameID
-gameID = `${gameDate}-${awayTeam.replaceAll(" ","*")}vs${homeTeam.replaceAll(" ","*")}`.replaceAll(",","*");
+    //Getting Team Names
+    teamNames.each(function(){
+        let teamName = $(this).text().trim();
 
-//Creating WriteStream for file writing
-stream = fs.createWriteStream(filePath,{flags:'a'});
-stream.write("GameID,Quarter,Quarter_Time,Team,Play" + "\n");
+        if(teamCounter === 0)
+        {
+            awayTeam = teamName;
+        }
+        else
+        {
+            homeTeam = teamName;
+        }
 
-//Parsing the HTML to get the play-by-play data
-$('tr').each(function(){
+        teamCounter++;
+    })
 
-    //Time in the Quarter
-    let quarterTime = $(this).find('td:first-child').text().trim();
+    //Creating file path from team names and date
+    filePath = filePath.concat(awayTeam.replaceAll(" ","-"),"vs");
+    filePath = filePath.concat(homeTeam.replaceAll(" ", "-"),gameDate);
+    filePath = filePath.concat(".txt");
+
+    //Creating GameID
+    gameID = `${gameDate}-${awayTeam.replaceAll(" ","*")}vs${homeTeam.replaceAll(" ","*")}`.replaceAll(",","*");
+
+    //Creating WriteStream for file writing
+    stream = fs.createWriteStream(filePath,{flags:'a'});
+    stream.write("GameID,Quarter,Quarter_Time,Team,Play" + "\n");
+
+    parsePbP($,stream,homeTeam,awayTeam,gameID);
+}
+
+function parsePbP($,stream,homeTeam,awayTeam,gameID)
+{
+    let quarter = 1
     let playTeam;
     let play;
+    let quarterTime;
+    //Parsing the HTML to get the play-by-play data
+    $('tr').each(function(){
 
-    //Check if play is in the second child tag
-    if($(this).find('td').eq(1).text().trim() !== "")
-    {
-        play = $(this).find('td').eq(1).text().trim();
-        playTeam = awayTeam;
-        //Check if End of Quarter
-        if(play.includes("End"))
+        //Time in the Quarter
+        quarterTime = $(this).find('td:first-child').text().trim();
+
+        //Check if play is in the second child tag
+        if($(this).find('td').eq(1).text().trim() !== "")
         {
-            quarter++;
+            play = $(this).find('td').eq(1).text().trim();
+            playTeam = awayTeam;
+            //Check if End of Quarter
+            if(play.includes("End"))
+            {
+                quarter++;
+            }
         }
-    }
-    else
-    {
-        play = $(this).find('td:last-child').text().trim();
-        playTeam = homeTeam;
-    }
-    
-    if(quarterTime !== "" && !play.includes("misses") && !play.includes("enters") && !play.includes("Violation") && !play.includes("foul") && !play.includes("Turnover") && !play.includes("timeout")
-        && !play.includes("Start") && !play.includes("End"))
-    {
-        stream.write(`${gameID},${quarter},${quarterTime},${playTeam},${play}\n`)
-    }
-})
+        else
+        {
+            play = $(this).find('td:last-child').text().trim();
+            playTeam = homeTeam;
+        }
+        
+        if(quarterTime !== "" && !play.includes("misses") && !play.includes("enters") && !play.includes("Violation") && !play.includes("foul") && !play.includes("Turnover") && !play.includes("timeout")
+            && !play.includes("Start") && !play.includes("End"))
+        {
+            stream.write(`${gameID},${quarter},${quarterTime},${playTeam},${play}\n`)
+        }
+    })
+}
 
-
-
-
-
+main();

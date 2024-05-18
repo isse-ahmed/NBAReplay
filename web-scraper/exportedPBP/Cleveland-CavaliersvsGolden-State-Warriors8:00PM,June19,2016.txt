@@ -204,3 +204,209 @@ GameID,Quarter,Quarter_Time,Team,Play
 8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,0:11.0,Cleveland Cavaliers,L. James makes free throw 2 of 2
 8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,0:02.0,Golden State Warriors,Offensive rebound by M. Speights
 8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,0:00.0,Golden State Warriors,Offensive rebound by Team
+GameID,Quarter,Quarter_Time,Team,Play
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,12:00.0,Cleveland Cavaliers,Jump ball: F. Ezeli vs. T. Thompson (L. James gains possession)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,11:36.0,Golden State Warriors,Defensive rebound by S. Curry
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,11:17.0,Cleveland Cavaliers,Defensive rebound by L. James
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,11:05.0,Cleveland Cavaliers,T. Thompson makes 2-pt layup from 3 ft (assist by K. Irving)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,10:43.0,Cleveland Cavaliers,Defensive rebound by L. James
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,10:37.0,Cleveland Cavaliers,L. James makes 2-pt layup from 1 ft (assist by J. Smith)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,10:24.0,Golden State Warriors,Offensive rebound by K. Thompson
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,10:13.0,Golden State Warriors,D. Green makes 2-pt dunk at rim (assist by F. Ezeli)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,9:47.0,Golden State Warriors,Defensive rebound by H. Barnes
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,9:38.0,Golden State Warriors,H. Barnes makes 3-pt jump shot from 27 ft (assist by D. Green)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,9:19.0,Golden State Warriors,Defensive rebound by S. Curry
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,9:06.0,Golden State Warriors,D. Green makes 3-pt jump shot from 26 ft (assist by H. Barnes)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,8:50.0,Golden State Warriors,Defensive rebound by F. Ezeli
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,8:42.0,Cleveland Cavaliers,Defensive rebound by K. Love
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,8:31.0,Golden State Warriors,Defensive rebound by Team
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,8:13.0,Cleveland Cavaliers,Defensive rebound by T. Thompson
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,8:03.0,Cleveland Cavaliers,Offensive rebound by K. Love
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,8:00.0,Cleveland Cavaliers,Offensive rebound by K. Love
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,7:58.0,Cleveland Cavaliers,K. Love makes 2-pt layup from 1 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,7:41.0,Cleveland Cavaliers,Defensive rebound by L. James
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,7:18.0,Cleveland Cavaliers,Defensive rebound by T. Thompson
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,7:07.0,Cleveland Cavaliers,K. Irving makes 2-pt jump shot from 13 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,6:42.0,Golden State Warriors,S. Curry makes 3-pt jump shot from 26 ft (assist by D. Green)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,6:14.0,Cleveland Cavaliers,Offensive rebound by Team
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,6:04.0,Cleveland Cavaliers,J. Smith makes 2-pt layup from 2 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,5:52.0,Cleveland Cavaliers,Defensive rebound by L. James
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,4:50.0,Golden State Warriors,K. Thompson makes 2-pt jump shot from 12 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,4:28.0,Golden State Warriors,Defensive rebound by D. Green
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,4:16.0,Cleveland Cavaliers,R. Jefferson makes 2-pt layup from 2 ft (assist by L. James)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,3:59.0,Cleveland Cavaliers,Defensive rebound by L. James
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,3:55.0,Cleveland Cavaliers,J. Smith makes 2-pt layup from 1 ft (assist by L. James)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,3:38.0,Golden State Warriors,K. Thompson makes 3-pt jump shot from 25 ft (assist by D. Green)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,3:12.0,Cleveland Cavaliers,L. James makes 2-pt dunk at rim (assist by J. Smith)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,2:52.0,Cleveland Cavaliers,Defensive rebound by J. Smith
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,2:44.0,Golden State Warriors,Defensive rebound by D. Green
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,2:35.0,Cleveland Cavaliers,Defensive rebound by T. Thompson
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,2:00.0,Golden State Warriors,S. Curry makes 3-pt jump shot from 23 ft (assist by A. Varejão)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,1:40.0,Cleveland Cavaliers,K. Irving makes 2-pt jump shot from 16 ft (assist by L. James)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,1:26.0,Golden State Warriors,D. Green makes 2-pt layup from 1 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,1:06.0,Cleveland Cavaliers,Offensive rebound by K. Love
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,1:06.0,Cleveland Cavaliers,K. Love makes free throw 1 of 2
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,1:06.0,Golden State Warriors,Defensive rebound by A. Iguodala
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,0:53.0,Cleveland Cavaliers,Defensive rebound by K. Love
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,0:43.0,Cleveland Cavaliers,Offensive rebound by K. Love
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,0:38.0,Cleveland Cavaliers,K. Love makes free throw 1 of 2
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,0:38.0,Cleveland Cavaliers,K. Love makes free throw 2 of 2
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,0:25.0,Golden State Warriors,A. Varejão makes free throw 1 of 2
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,0:25.0,Cleveland Cavaliers,Defensive rebound by K. Love
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,0:04.0,Cleveland Cavaliers,L. James makes free throw 1 of 2
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,1,0:04.0,Cleveland Cavaliers,L. James makes free throw 2 of 2
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,11:42.0,Golden State Warriors,S. Livingston makes 2-pt jump shot from 16 ft (assist by D. Green)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,11:24.0,Cleveland Cavaliers,Offensive rebound by R. Jefferson
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,11:19.0,Golden State Warriors,Defensive rebound by M. Speights
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,10:52.0,Golden State Warriors,Defensive rebound by M. Speights
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,10:42.0,Cleveland Cavaliers,Defensive rebound by R. Jefferson
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,10:33.0,Cleveland Cavaliers,L. James makes 2-pt layup from 3 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,10:07.0,Golden State Warriors,Offensive rebound by M. Speights
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,10:07.0,Cleveland Cavaliers,Defensive rebound by Team
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,9:50.0,Golden State Warriors,Defensive rebound by K. Thompson
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,9:45.0,Golden State Warriors,Offensive rebound by Team
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,9:33.0,Golden State Warriors,Offensive rebound by S. Livingston
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,9:33.0,Golden State Warriors,S. Livingston makes 2-pt layup from 13 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,9:19.0,Golden State Warriors,Defensive rebound by D. Green
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,9:10.0,Cleveland Cavaliers,M. Williams makes 2-pt layup from 2 ft (assist by L. James)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,8:49.0,Golden State Warriors,D. Green makes 3-pt jump shot from 26 ft (assist by A. Iguodala)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,8:08.0,Cleveland Cavaliers,Defensive rebound by L. James
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,7:59.0,Golden State Warriors,Defensive rebound by A. Iguodala
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,7:37.0,Cleveland Cavaliers,Defensive rebound by K. Irving
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,7:24.0,Cleveland Cavaliers,Offensive rebound by Team
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,7:02.0,Cleveland Cavaliers,I. Shumpert makes 3-pt jump shot from 24 ft (assist by L. James)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,7:02.0,Cleveland Cavaliers,I. Shumpert makes free throw 1 of 1
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,6:52.0,Golden State Warriors,S. Curry makes 2-pt layup from 2 ft (assist by D. Green)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,6:52.0,Golden State Warriors,S. Curry makes free throw 1 of 1
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,6:29.0,Cleveland Cavaliers,Offensive rebound by L. James
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,6:24.0,Golden State Warriors,Defensive rebound by D. Green
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,6:10.0,Cleveland Cavaliers,L. James makes 2-pt layup at rim (assist by K. Love)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,5:56.0,Golden State Warriors,D. Green makes 3-pt jump shot from 27 ft (assist by K. Thompson)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,5:32.0,Cleveland Cavaliers,Defensive rebound by I. Shumpert
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,5:13.0,Golden State Warriors,Defensive rebound by S. Curry
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,5:06.0,Golden State Warriors,Offensive rebound by Team
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,4:57.0,Golden State Warriors,Offensive rebound by A. Iguodala
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,4:50.0,Cleveland Cavaliers,Defensive rebound by J. Smith
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,4:28.0,Cleveland Cavaliers,K. Irving makes 2-pt jump shot from 7 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,4:09.0,Golden State Warriors,D. Green makes 3-pt jump shot from 26 ft (assist by A. Iguodala)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,3:59.0,Cleveland Cavaliers,K. Irving makes 2-pt jump shot from 7 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,3:59.0,Cleveland Cavaliers,K. Irving makes free throw 1 of 1
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,3:45.0,Golden State Warriors,D. Green makes 3-pt jump shot from 26 ft (assist by A. Iguodala)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,3:31.0,Cleveland Cavaliers,L. James makes 2-pt jump shot from 6 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,3:30.0,Golden State Warriors,Defensive rebound by D. Green
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,3:15.0,Cleveland Cavaliers,Defensive rebound by R. Jefferson
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,3:07.0,Golden State Warriors,Defensive rebound by D. Green
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,2:57.0,Cleveland Cavaliers,Defensive rebound by J. Smith
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,2:47.0,Golden State Warriors,Defensive rebound by A. Iguodala
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,2:27.0,Golden State Warriors,D. Green makes 2-pt layup from 2 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,2:27.0,Golden State Warriors,D. Green makes free throw 1 of 1
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,2:08.0,Golden State Warriors,L. Barbosa makes 3-pt jump shot from 23 ft (assist by K. Thompson)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,1:44.0,Cleveland Cavaliers,Offensive rebound by Team
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,1:35.0,Cleveland Cavaliers,Jump ball: D. Green vs. K. Irving (L. Barbosa gains possession)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,1:17.0,Cleveland Cavaliers,Defensive rebound by R. Jefferson
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,1:09.0,Cleveland Cavaliers,I. Shumpert makes free throw 1 of 2
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,1:09.0,Cleveland Cavaliers,I. Shumpert makes free throw 2 of 2
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,0:51.0,Golden State Warriors,A. Iguodala makes 2-pt jump shot from 11 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,0:30.0,Golden State Warriors,Defensive rebound by A. Iguodala
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,2,0:04.0,Cleveland Cavaliers,Defensive rebound by R. Jefferson
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,11:49.0,Cleveland Cavaliers,Defensive rebound by K. Love
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,11:38.0,Cleveland Cavaliers,J. Smith makes 2-pt jump shot from 21 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,11:23.0,Cleveland Cavaliers,Defensive rebound by Team
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,11:11.0,Cleveland Cavaliers,T. Thompson makes 2-pt jump shot from 8 ft (assist by L. James)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,11:01.0,Golden State Warriors,K. Thompson makes 3-pt jump shot from 25 ft (assist by S. Curry)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,10:44.0,Golden State Warriors,Defensive rebound by D. Green
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,10:33.0,Golden State Warriors,K. Thompson makes 2-pt jump shot from 8 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,10:08.0,Cleveland Cavaliers,J. Smith makes 3-pt jump shot from 25 ft (assist by L. James)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,9:54.0,Cleveland Cavaliers,Defensive rebound by K. Love
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,9:34.0,Cleveland Cavaliers,J. Smith makes 3-pt jump shot from 26 ft (assist by L. James)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,8:53.0,Cleveland Cavaliers,K. Irving makes 2-pt layup from 2 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,8:30.0,Cleveland Cavaliers,Defensive rebound by K. Irving
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,8:24.0,Golden State Warriors,Defensive rebound by S. Curry
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,8:21.0,Golden State Warriors,S. Curry makes 2-pt layup from 1 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,7:50.0,Golden State Warriors,Defensive rebound by Team
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,7:40.0,Golden State Warriors,S. Curry makes 3-pt jump shot from 26 ft (assist by A. Iguodala)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,7:14.0,Cleveland Cavaliers,K. Love makes 2-pt layup from 3 ft (assist by L. James)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,6:49.0,Cleveland Cavaliers,Defensive rebound by K. Love
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,6:44.0,Cleveland Cavaliers,L. James makes free throw 1 of 2
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,6:44.0,Cleveland Cavaliers,L. James makes free throw 2 of 2
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,6:24.0,Cleveland Cavaliers,K. Irving makes 2-pt layup from 2 ft (assist by K. Love)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,5:55.0,Cleveland Cavaliers,Defensive rebound by K. Love
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,5:32.0,Cleveland Cavaliers,Offensive rebound by K. Irving
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,5:32.0,Cleveland Cavaliers,Offensive rebound by Team
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,5:21.0,Golden State Warriors,Defensive rebound by Team
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,5:04.0,Golden State Warriors,Offensive rebound by Team
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,4:59.0,Cleveland Cavaliers,Defensive rebound by L. James
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,4:51.0,Cleveland Cavaliers,K. Irving makes free throw 1 of 2
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,4:51.0,Cleveland Cavaliers,K. Irving makes free throw 2 of 2
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,4:33.0,Cleveland Cavaliers,K. Irving makes 2-pt jump shot from 5 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,4:33.0,Cleveland Cavaliers,K. Irving makes free throw 1 of 1
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,4:22.0,Golden State Warriors,H. Barnes makes 2-pt dunk at rim (assist by D. Green)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,4:00.0,Cleveland Cavaliers,K. Irving makes 3-pt jump shot from 26 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,3:37.0,Golden State Warriors,H. Barnes makes free throw 1 of 2
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,3:37.0,Golden State Warriors,H. Barnes makes free throw 2 of 2
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,3:18.0,Cleveland Cavaliers,T. Thompson makes free throw 1 of 2
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,3:18.0,Cleveland Cavaliers,T. Thompson makes free throw 2 of 2
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,3:03.0,Golden State Warriors,D. Green makes free throw 1 of 3
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,3:03.0,Golden State Warriors,D. Green makes free throw 2 of 3
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,3:03.0,Golden State Warriors,D. Green makes free throw 3 of 3
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,2:42.0,Cleveland Cavaliers,Offensive rebound by Team
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,2:42.0,Cleveland Cavaliers,T. Thompson makes free throw 1 of 2
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,2:42.0,Golden State Warriors,Defensive rebound by D. Green
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,2:30.0,Golden State Warriors,D. Green makes 3-pt jump shot from 27 ft (assist by S. Livingston)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,2:01.0,Golden State Warriors,Defensive rebound by S. Curry
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,1:56.0,Golden State Warriors,S. Livingston makes 2-pt dunk at rim (assist by S. Curry)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,1:36.0,Cleveland Cavaliers,L. James makes 2-pt jump shot from 12 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,1:19.0,Golden State Warriors,H. Barnes makes 3-pt jump shot from 23 ft (assist by D. Green)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,0:54.0,Cleveland Cavaliers,T. Thompson makes 2-pt hook shot from 5 ft (assist by L. James)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,0:43.0,Golden State Warriors,Offensive rebound by A. Iguodala
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,0:28.0,Cleveland Cavaliers,Defensive rebound by R. Jefferson
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,0:16.0,Golden State Warriors,Defensive rebound by A. Iguodala
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,0:04.0,Golden State Warriors,A. Iguodala makes 2-pt hook shot from 2 ft (assist by S. Livingston)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,3,0:00.0,Cleveland Cavaliers,Offensive rebound by Team
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,11:34.0,Cleveland Cavaliers,L. James makes 2-pt jump shot from 5 ft (assist by K. Love)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,11:13.0,Cleveland Cavaliers,Defensive rebound by K. Love
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,10:49.0,Cleveland Cavaliers,Offensive rebound by Team
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,10:35.0,Cleveland Cavaliers,K. Love makes 2-pt hook shot from 7 ft (assist by L. James)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,10:15.0,Cleveland Cavaliers,Defensive rebound by L. James
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,9:56.0,Golden State Warriors,S. Livingston makes free throw 1 of 2
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,9:56.0,Golden State Warriors,S. Livingston makes free throw 2 of 2
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,9:25.0,Cleveland Cavaliers,Defensive rebound by R. Jefferson
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,9:05.0,Cleveland Cavaliers,Offensive rebound by K. Irving
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,9:05.0,Cleveland Cavaliers,K. Irving makes 2-pt layup from 7 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,8:43.0,Golden State Warriors,D. Green makes 2-pt layup from 2 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,8:16.0,Golden State Warriors,Defensive rebound by H. Barnes
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,7:57.0,Cleveland Cavaliers,Defensive rebound by K. Irving
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,7:45.0,Golden State Warriors,Defensive rebound by D. Green
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,7:40.0,Golden State Warriors,Offensive rebound by Team
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,7:38.0,Cleveland Cavaliers,Defensive rebound by R. Jefferson
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,7:15.0,Cleveland Cavaliers,L. James makes 2-pt jump shot from 5 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,6:57.0,Golden State Warriors,S. Curry makes 3-pt jump shot from 27 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,6:28.0,Golden State Warriors,Defensive rebound by A. Iguodala
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,6:18.0,Golden State Warriors,K. Thompson makes 2-pt jump shot from 20 ft (assist by D. Green)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,5:53.0,Golden State Warriors,Defensive rebound by D. Green
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,5:37.0,Golden State Warriors,Offensive rebound by D. Green
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,5:37.0,Golden State Warriors,D. Green makes 2-pt layup from 2 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,5:24.0,Cleveland Cavaliers,L. James makes free throw 1 of 3
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,5:24.0,Cleveland Cavaliers,L. James makes free throw 2 of 3
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,5:24.0,Cleveland Cavaliers,L. James makes free throw 3 of 3
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,4:53.0,Cleveland Cavaliers,L. James makes 3-pt jump shot from 26 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,4:39.0,Golden State Warriors,K. Thompson makes 2-pt layup from 2 ft (assist by D. Green)
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,4:13.0,Golden State Warriors,Defensive rebound by D. Green
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,4:04.0,Cleveland Cavaliers,Defensive rebound by R. Jefferson
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,3:40.0,Golden State Warriors,Defensive rebound by Team
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,3:21.0,Cleveland Cavaliers,Defensive rebound by K. Love
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,2:59.0,Golden State Warriors,Defensive rebound by D. Green
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,2:50.0,Cleveland Cavaliers,Defensive rebound by L. James
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,2:32.0,Golden State Warriors,Defensive rebound by D. Green
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,2:12.0,Cleveland Cavaliers,Defensive rebound by Team
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,1:55.0,Golden State Warriors,Defensive rebound by A. Iguodala
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,1:49.0,Cleveland Cavaliers,Defensive rebound by J. Smith
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,1:24.0,Golden State Warriors,Defensive rebound by D. Green
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,1:13.0,Cleveland Cavaliers,Defensive rebound by K. Love
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,0:53.0,Cleveland Cavaliers,K. Irving makes 3-pt jump shot from 25 ft
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,0:30.0,Cleveland Cavaliers,Defensive rebound by L. James
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,0:22.0,Cleveland Cavaliers,Offensive rebound by K. Irving
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,0:11.0,Cleveland Cavaliers,Offensive rebound by Team
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,0:11.0,Cleveland Cavaliers,L. James makes free throw 2 of 2
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,0:02.0,Golden State Warriors,Offensive rebound by M. Speights
+8:00PM*June19*2016-Cleveland*CavaliersvsGolden*State*Warriors,4,0:00.0,Golden State Warriors,Offensive rebound by Team
