@@ -1,0 +1,9 @@
+.device-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#device-endpoint {
+  color: black;
+}

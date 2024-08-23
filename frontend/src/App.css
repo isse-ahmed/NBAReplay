@@ -1,3 +1,22 @@
-.background{
-  background-color: darkgrey;
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main-content-wrapper {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rounded-container {
+  border: 200px solid var(--third-color);
+  padding: 10px;
+  border-radius: 15px;
+  height: 700px;
+  background: var(--third-color);
+  height: 100%;
+  width: 100%;
 }

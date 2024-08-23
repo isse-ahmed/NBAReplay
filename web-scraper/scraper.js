@@ -1,5 +1,5 @@
 /*
-This web-scarper that takes a url to the play-by-play page of a 
+This web-scraper takes a url of the play-by-play page of a 
 basketball game on the Basketball Reference Website
 eg. "https://www.basketball-reference.com/boxscores/pbp/201606190GSW.html"
 */
@@ -12,7 +12,7 @@ import cheerio from 'cheerio';
 import fs from 'node:fs';
 
 //URL of the Play-by-play on the Basketball Reference Website
-const url = "https://www.basketball-reference.com/boxscores/pbp/201605280OKC.html";
+const url = "https://www.basketball-reference.com/boxscores/pbp/202406120DAL.html";
 const response = await got(url);
 
 function main()

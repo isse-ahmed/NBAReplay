@@ -1,0 +1,11 @@
+.border {
+    display:flex;
+    justify-content:space-around;
+    background-color: #363D45;
+    padding: 10px;
+}
+
+.title{
+    text-align: center;
+    font-size: 24px;
+}
