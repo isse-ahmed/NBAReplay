@@ -18,8 +18,5 @@ The NBA plays are stored with:
 - Team
 - Play
 
-I am running postgresql on Fedora, so to create the database I ran the commands:
-
-- sudo -u postgres psql
-- CREATE USER my_username WITH PASSWORD 'my_password';
-- CREATE DATABASE nba_db OWNER my_username;
+To initalize the database, install `sqlite`, and run the `create_database.sh`
+file file.

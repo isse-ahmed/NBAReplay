@@ -1,6 +1,7 @@
 #!/bin/bash
 
-psql nba_db << EOF
+
+sqlite3 nba_data.db << EOF
 
 -- Create the games table
 CREATE TABLE IF NOT EXISTS nba_games (
