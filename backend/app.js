@@ -1,6 +1,4 @@
 const express = require("express");
-const db = require(`.src/config/db`);
-
 const app = express();
 const port = 3000;
 
@@ -8,7 +6,7 @@ const port = 3000;
 app.use(express.json());
 
 // Import Routes
-//const nbaRoutes = require(".src/routes/nbaRoutes");
+const nbaRoutes = require("./src/routes/nbaRoutes");
 
 //  Use Routes
 app.use("/api/nba", nbaRoutes);

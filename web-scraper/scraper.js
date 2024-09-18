@@ -55,8 +55,8 @@ function main() {
   });
 
   //Creating file path from team names and date
-  filePath = filePath.concat(awayTeam.replaceAll(" ", "-"), "vs");
-  filePath = filePath.concat(homeTeam.replaceAll(" ", "-"), gameDate);
+  filePath = filePath.concat(awayTeam.replaceAll(" ", ""), "vs");
+  filePath = filePath.concat(homeTeam.replaceAll(" ", ""), gameDate.replaceAll(",","").replaceAll(":",""));
   filePath = filePath.concat(".txt");
 
   //Creating GameID

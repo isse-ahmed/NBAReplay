@@ -1,0 +1,204 @@
+GameID,gameDate,HomeTeam,AwayTeam
+June122024DalvsBos,8:30PM-June12-2024,Dallas Mavericks,Boston Celtics
+GameID,Score,Quarter,QuarterTime,Team,Play
+June122024DalvsBos,0-0,1,12:00.0,Boston Celtics,Jump ball: A. Horford vs. D. Gafford
+June122024DalvsBos,0-2,1,11:46.0,Dallas Mavericks,K. Irving makes 2-pt layup from 3 ft
+June122024DalvsBos,2-2,1,11:23.0,Boston Celtics,A. Horford makes 2-pt jump shot from 10 ft
+June122024DalvsBos,2-5,1,11:14.0,Dallas Mavericks,L. Dončić makes 3-pt jump shot from 27 ft
+June122024DalvsBos,2-7,1,10:58.0,Dallas Mavericks,D. Jones makes 2-pt layup from 2 ft
+June122024DalvsBos,2-7,1,10:42.0,Dallas Mavericks,Defensive rebound by L. Dončić
+June122024DalvsBos,2-7,1,10:26.0,Dallas Mavericks,Defensive rebound by K. Irving
+June122024DalvsBos,2-9,1,10:12.0,Dallas Mavericks,L. Dončić makes 2-pt layup from 5 ft
+June122024DalvsBos,5-9,1,9:55.0,Boston Celtics,A. Horford makes 3-pt jump shot from 23 ft
+June122024DalvsBos,5-9,1,9:34.0,Dallas Mavericks,Offensive rebound by Team
+June122024DalvsBos,5-11,1,9:32.0,Dallas Mavericks,K. Irving makes 2-pt jump shot from 6 ft
+June122024DalvsBos,5-11,1,9:15.0,Dallas Mavericks,Defensive rebound by D. Gafford
+June122024DalvsBos,5-11,1,8:53.0,Boston Celtics,Defensive rebound by J. Brown
+June122024DalvsBos,5-11,1,8:45.0,Boston Celtics,Offensive rebound by J. Holiday
+June122024DalvsBos,5-11,1,8:45.0,Dallas Mavericks,Defensive rebound by P. Washington
+June122024DalvsBos,5-11,1,8:29.0,Boston Celtics,Defensive rebound by J. Brown
+June122024DalvsBos,5-11,1,8:22.0,Dallas Mavericks,Defensive rebound by L. Dončić
+June122024DalvsBos,5-13,1,8:17.0,Dallas Mavericks,D. Gafford makes 2-pt dunk from 3 ft
+June122024DalvsBos,5-13,1,7:54.0,Dallas Mavericks,Defensive rebound by D. Jones
+June122024DalvsBos,5-13,1,7:39.0,Boston Celtics,Defensive rebound by J. Tatum
+June122024DalvsBos,7-13,1,7:24.0,Boston Celtics,J. Holiday makes 2-pt jump shot from 15 ft
+June122024DalvsBos,7-15,1,7:05.0,Dallas Mavericks,L. Dončić makes 2-pt layup from 2 ft
+June122024DalvsBos,7-15,1,6:44.0,Dallas Mavericks,Defensive rebound by D. Lively
+June122024DalvsBos,7-17,1,6:37.0,Dallas Mavericks,K. Irving makes 2-pt layup from 7 ft
+June122024DalvsBos,9-17,1,6:26.0,Boston Celtics,J. Tatum makes 2-pt layup from 2 ft
+June122024DalvsBos,9-19,1,6:10.0,Dallas Mavericks,L. Dončić makes 2-pt jump shot from 5 ft
+June122024DalvsBos,9-21,1,5:48.0,Dallas Mavericks,D. Lively makes 2-pt layup from 3 ft
+June122024DalvsBos,9-22,1,5:48.0,Dallas Mavericks,D. Lively makes free throw 1 of 1
+June122024DalvsBos,12-22,1,5:33.0,Boston Celtics,J. Tatum makes 3-pt jump shot from 26 ft
+June122024DalvsBos,12-22,1,5:14.0,Boston Celtics,Defensive rebound by D. White
+June122024DalvsBos,12-22,1,4:54.0,Dallas Mavericks,Defensive rebound by D. Lively
+June122024DalvsBos,12-25,1,4:48.0,Dallas Mavericks,K. Irving makes 3-pt jump shot from 29 ft
+June122024DalvsBos,12-25,1,4:34.0,Boston Celtics,Offensive rebound by Team
+June122024DalvsBos,13-25,1,4:34.0,Boston Celtics,J. Brown makes free throw 2 of 3
+June122024DalvsBos,14-25,1,4:34.0,Boston Celtics,J. Brown makes free throw 3 of 3
+June122024DalvsBos,14-25,1,4:03.0,Dallas Mavericks,Defensive rebound by M. Kleber
+June122024DalvsBos,14-25,1,3:54.0,Boston Celtics,Defensive rebound by S. Hauser
+June122024DalvsBos,16-25,1,3:51.0,Boston Celtics,J. Brown makes 2-pt layup from 1 ft
+June122024DalvsBos,16-25,1,3:33.0,Boston Celtics,Defensive rebound by J. Tatum
+June122024DalvsBos,19-25,1,3:26.0,Boston Celtics,J. Tatum makes 3-pt jump shot from 26 ft
+June122024DalvsBos,19-25,1,3:04.0,Dallas Mavericks,Offensive rebound by Team
+June122024DalvsBos,19-25,1,2:52.0,Boston Celtics,Defensive rebound by Team
+June122024DalvsBos,20-25,1,2:35.0,Boston Celtics,J. Tatum makes technical free throw
+June122024DalvsBos,23-25,1,2:24.0,Boston Celtics,S. Hauser makes 3-pt jump shot from 24 ft
+June122024DalvsBos,23-27,1,2:01.0,Dallas Mavericks,L. Dončić makes 2-pt jump shot from 16 ft
+June122024DalvsBos,24-27,1,1:46.0,Boston Celtics,J. Tatum makes free throw 1 of 2
+June122024DalvsBos,25-27,1,1:46.0,Boston Celtics,J. Tatum makes free throw 2 of 2
+June122024DalvsBos,25-29,1,1:34.0,Dallas Mavericks,D. Exum makes 2-pt dunk from 3 ft
+June122024DalvsBos,25-29,1,1:12.0,Dallas Mavericks,Defensive rebound by P. Washington
+June122024DalvsBos,25-30,1,1:02.0,Dallas Mavericks,L. Dončić makes free throw 1 of 2
+June122024DalvsBos,25-31,1,1:02.0,Dallas Mavericks,L. Dončić makes free throw 2 of 2
+June122024DalvsBos,25-31,1,0:46.0,Dallas Mavericks,Defensive rebound by L. Dončić
+June122024DalvsBos,25-31,1,0:34.0,Boston Celtics,Defensive rebound by S. Hauser
+June122024DalvsBos,28-31,1,0:28.0,Boston Celtics,S. Hauser makes 3-pt jump shot from 27 ft
+June122024DalvsBos,28-31,1,0:05.0,Boston Celtics,Defensive rebound by D. White
+June122024DalvsBos,30-31,1,0:01.0,Boston Celtics,J. Tatum makes 2-pt dunk from 2 ft
+June122024DalvsBos,30-31,2,11:41.0,Dallas Mavericks,Defensive rebound by T. Hardaway
+June122024DalvsBos,30-31,2,11:26.0,Boston Celtics,Defensive rebound by A. Horford
+June122024DalvsBos,30-31,2,10:50.0,Dallas Mavericks,Offensive rebound by Team
+June122024DalvsBos,30-31,2,10:36.0,Dallas Mavericks,Offensive rebound by Team
+June122024DalvsBos,30-31,2,10:22.0,Dallas Mavericks,Defensive rebound by Team
+June122024DalvsBos,32-31,2,9:52.0,Boston Celtics,J. Brown makes 2-pt layup from 1 ft
+June122024DalvsBos,32-31,2,9:17.0,Dallas Mavericks,Defensive rebound by D. Jones
+June122024DalvsBos,32-33,2,9:10.0,Dallas Mavericks,K. Irving makes 2-pt jump shot from 9 ft
+June122024DalvsBos,35-33,2,8:52.0,Boston Celtics,D. White makes 3-pt jump shot from 26 ft
+June122024DalvsBos,35-33,2,8:29.0,Boston Celtics,Defensive rebound by P. Pritchard
+June122024DalvsBos,35-33,2,8:11.0,Dallas Mavericks,Defensive rebound by K. Irving
+June122024DalvsBos,35-33,2,8:03.0,Dallas Mavericks,Offensive rebound by D. Jones
+June122024DalvsBos,35-33,2,7:57.0,Boston Celtics,Defensive rebound by Team
+June122024DalvsBos,35-33,2,7:57.0,Boston Celtics,Instant Replay
+June122024DalvsBos,35-33,2,7:31.0,Dallas Mavericks,Defensive rebound by D. Gafford
+June122024DalvsBos,35-33,2,7:17.0,Boston Celtics,Defensive rebound by Team
+June122024DalvsBos,35-33,2,6:40.0,Boston Celtics,Defensive rebound by J. Tatum
+June122024DalvsBos,35-33,2,6:26.0,Dallas Mavericks,Defensive rebound by P. Washington
+June122024DalvsBos,35-36,2,6:13.0,Dallas Mavericks,K. Irving makes 3-pt jump shot from 24 ft
+June122024DalvsBos,38-36,2,5:59.0,Boston Celtics,J. Tatum makes 3-pt jump shot from 28 ft
+June122024DalvsBos,38-38,2,5:39.0,Dallas Mavericks,D. Gafford makes 2-pt dunk from 1 ft
+June122024DalvsBos,40-38,2,5:18.0,Boston Celtics,J. Tatum makes 2-pt layup from 1 ft
+June122024DalvsBos,40-38,2,4:57.0,Boston Celtics,Defensive rebound by J. Tatum
+June122024DalvsBos,40-38,2,4:48.0,Boston Celtics,Offensive rebound by X. Tillman
+June122024DalvsBos,40-38,2,4:36.0,Dallas Mavericks,Defensive rebound by T. Hardaway
+June122024DalvsBos,40-41,2,4:15.0,Dallas Mavericks,K. Irving makes 3-pt jump shot from 26 ft
+June122024DalvsBos,40-41,2,3:56.0,Dallas Mavericks,Defensive rebound by K. Irving
+June122024DalvsBos,40-41,2,3:45.0,Dallas Mavericks,Offensive rebound by J. Green
+June122024DalvsBos,40-44,2,3:41.0,Dallas Mavericks,K. Irving makes 3-pt jump shot from 26 ft
+June122024DalvsBos,43-44,2,3:25.0,Boston Celtics,S. Hauser makes 3-pt jump shot from 22 ft
+June122024DalvsBos,43-46,2,3:08.0,Dallas Mavericks,L. Dončić makes 2-pt jump shot from 7 ft
+June122024DalvsBos,43-46,2,2:44.0,Boston Celtics,Offensive rebound by J. Holiday
+June122024DalvsBos,43-46,2,2:40.0,Boston Celtics,Offensive rebound by J. Holiday
+June122024DalvsBos,45-46,2,2:39.0,Boston Celtics,J. Holiday makes 2-pt layup from 4 ft
+June122024DalvsBos,45-48,2,2:13.0,Dallas Mavericks,L. Dončić makes 2-pt jump shot from 12 ft
+June122024DalvsBos,45-48,2,1:51.0,Dallas Mavericks,Defensive rebound by D. Lively
+June122024DalvsBos,45-48,2,1:40.0,Boston Celtics,Defensive rebound by J. Brown
+June122024DalvsBos,48-48,2,1:32.0,Boston Celtics,A. Horford makes 3-pt jump shot from 23 ft
+June122024DalvsBos,48-50,2,1:14.0,Dallas Mavericks,D. Lively makes 2-pt dunk from 1 ft
+June122024DalvsBos,48-50,2,0:49.0,Dallas Mavericks,Defensive rebound by Team
+June122024DalvsBos,50-50,2,0:33.0,Boston Celtics,J. Tatum makes 2-pt layup from 3 ft
+June122024DalvsBos,50-50,2,0:12.0,Dallas Mavericks,Offensive rebound by P. Washington
+June122024DalvsBos,50-50,2,0:09.0,Dallas Mavericks,Offensive rebound by Team
+June122024DalvsBos,50-51,2,0:09.0,Dallas Mavericks,P. Washington makes free throw 2 of 2
+June122024DalvsBos,50-51,2,0:01.0,Dallas Mavericks,Defensive rebound by P. Washington
+June122024DalvsBos,52-51,3,11:42.0,Boston Celtics,J. Brown makes 2-pt jump shot from 12 ft
+June122024DalvsBos,52-53,3,11:25.0,Dallas Mavericks,L. Dončić makes 2-pt layup from 3 ft
+June122024DalvsBos,54-53,3,11:06.0,Boston Celtics,J. Holiday makes 2-pt layup from 3 ft
+June122024DalvsBos,54-53,3,10:48.0,Dallas Mavericks,Offensive rebound by D. Gafford
+June122024DalvsBos,54-55,3,10:48.0,Dallas Mavericks,D. Gafford makes 2-pt dunk at rim
+June122024DalvsBos,56-55,3,10:30.0,Boston Celtics,J. Tatum makes 2-pt layup from 3 ft
+June122024DalvsBos,56-56,3,10:06.0,Dallas Mavericks,L. Dončić makes free throw 1 of 2
+June122024DalvsBos,56-57,3,10:06.0,Dallas Mavericks,L. Dončić makes free throw 2 of 2
+June122024DalvsBos,58-57,3,9:52.0,Boston Celtics,J. Brown makes 2-pt jump shot from 9 ft
+June122024DalvsBos,58-59,3,9:33.0,Dallas Mavericks,K. Irving makes 2-pt jump shot from 12 ft
+June122024DalvsBos,61-59,3,9:20.0,Boston Celtics,J. Holiday makes 3-pt jump shot from 27 ft
+June122024DalvsBos,64-59,3,8:45.0,Boston Celtics,J. Tatum makes 3-pt jump shot from 27 ft
+June122024DalvsBos,64-59,3,8:16.0,Boston Celtics,Defensive rebound by A. Horford
+June122024DalvsBos,66-59,3,8:07.0,Boston Celtics,J. Brown makes 2-pt dunk from 2 ft
+June122024DalvsBos,66-61,3,7:48.0,Dallas Mavericks,K. Irving makes 2-pt jump shot from 9 ft
+June122024DalvsBos,66-61,3,7:24.0,Dallas Mavericks,Defensive rebound by P. Washington
+June122024DalvsBos,66-61,3,7:14.0,Boston Celtics,Defensive rebound by A. Horford
+June122024DalvsBos,69-61,3,6:59.0,Boston Celtics,J. Brown makes 3-pt jump shot from 23 ft
+June122024DalvsBos,69-61,3,6:38.0,Boston Celtics,Defensive rebound by J. Holiday
+June122024DalvsBos,69-61,3,6:19.0,Dallas Mavericks,Defensive rebound by D. Lively
+June122024DalvsBos,69-61,3,6:11.0,Boston Celtics,Defensive rebound by X. Tillman
+June122024DalvsBos,71-61,3,6:09.0,Boston Celtics,J. Tatum makes 2-pt dunk from 1 ft
+June122024DalvsBos,71-63,3,5:52.0,Dallas Mavericks,L. Dončić makes 2-pt layup from 3 ft
+June122024DalvsBos,71-63,3,5:29.0,Dallas Mavericks,Defensive rebound by L. Dončić
+June122024DalvsBos,71-63,3,5:15.0,Dallas Mavericks,Offensive rebound by D. Lively
+June122024DalvsBos,71-65,3,5:11.0,Dallas Mavericks,L. Dončić makes 2-pt layup from 1 ft
+June122024DalvsBos,71-65,3,4:47.0,Dallas Mavericks,Defensive rebound by D. Lively
+June122024DalvsBos,71-65,3,4:30.0,Boston Celtics,Defensive rebound by Team
+June122024DalvsBos,71-65,3,4:09.0,Dallas Mavericks,Defensive rebound by D. Lively
+June122024DalvsBos,71-65,3,3:50.0,Boston Celtics,Defensive rebound by X. Tillman
+June122024DalvsBos,71-65,3,3:31.0,Boston Celtics,Offensive rebound by S. Hauser
+June122024DalvsBos,72-65,3,3:24.0,Boston Celtics,J. Brown makes free throw 1 of 2
+June122024DalvsBos,73-65,3,3:24.0,Boston Celtics,J. Brown makes free throw 2 of 2
+June122024DalvsBos,73-65,3,2:56.0,Boston Celtics,Defensive rebound by X. Tillman
+June122024DalvsBos,75-65,3,2:48.0,Boston Celtics,J. Brown makes 2-pt jump shot from 19 ft
+June122024DalvsBos,75-65,3,2:29.0,Boston Celtics,Defensive rebound by D. White
+June122024DalvsBos,78-65,3,2:14.0,Boston Celtics,X. Tillman makes 3-pt jump shot from 23 ft
+June122024DalvsBos,78-67,3,1:49.0,Dallas Mavericks,K. Irving makes 2-pt jump shot from 22 ft
+June122024DalvsBos,79-67,3,1:44.0,Boston Celtics,D. White makes free throw 1 of 2
+June122024DalvsBos,80-67,3,1:44.0,Boston Celtics,D. White makes free throw 2 of 2
+June122024DalvsBos,80-67,3,1:20.0,Boston Celtics,Defensive rebound by D. White
+June122024DalvsBos,80-67,3,1:11.0,Dallas Mavericks,Defensive rebound by P. Washington
+June122024DalvsBos,80-70,3,1:04.0,Dallas Mavericks,P. Washington makes 3-pt jump shot from 25 ft
+June122024DalvsBos,83-70,3,0:41.0,Boston Celtics,D. White makes 3-pt jump shot from 30 ft
+June122024DalvsBos,83-70,3,0:22.0,Boston Celtics,Defensive rebound by A. Horford
+June122024DalvsBos,85-70,3,0:07.0,Boston Celtics,J. Brown makes 2-pt dunk from 2 ft
+June122024DalvsBos,85-70,3,0:00.0,Dallas Mavericks,Offensive rebound by Team
+June122024DalvsBos,88-70,4,11:29.0,Boston Celtics,J. Brown makes 3-pt jump shot from 23 ft
+June122024DalvsBos,88-70,4,11:17.0,Boston Celtics,Defensive rebound by Team
+June122024DalvsBos,91-70,4,11:07.0,Boston Celtics,D. White makes 3-pt jump shot from 25 ft
+June122024DalvsBos,91-70,4,10:42.0,Boston Celtics,Defensive rebound by J. Brown
+June122024DalvsBos,91-70,4,10:18.0,Dallas Mavericks,Defensive rebound by D. Lively
+June122024DalvsBos,91-73,4,10:14.0,Dallas Mavericks,P. Washington makes 3-pt jump shot from 25 ft
+June122024DalvsBos,91-73,4,9:51.0,Dallas Mavericks,Defensive rebound by J. Green
+June122024DalvsBos,91-75,4,9:34.0,Dallas Mavericks,L. Dončić makes 2-pt layup from 4 ft
+June122024DalvsBos,91-75,4,9:08.0,Dallas Mavericks,Defensive rebound by L. Dončić
+June122024DalvsBos,91-75,4,8:56.0,Dallas Mavericks,Offensive rebound by D. Lively
+June122024DalvsBos,91-77,4,8:56.0,Dallas Mavericks,D. Lively makes 2-pt layup at rim
+June122024DalvsBos,91-77,4,8:32.0,Dallas Mavericks,Defensive rebound by L. Dončić
+June122024DalvsBos,91-80,4,8:24.0,Dallas Mavericks,J. Green makes 3-pt jump shot from 24 ft
+June122024DalvsBos,91-81,4,8:01.0,Dallas Mavericks,P. Washington makes free throw 1 of 2
+June122024DalvsBos,91-82,4,8:01.0,Dallas Mavericks,P. Washington makes free throw 2 of 2
+June122024DalvsBos,93-82,4,7:45.0,Boston Celtics,J. Brown makes 2-pt jump shot from 11 ft
+June122024DalvsBos,93-84,4,7:27.0,Dallas Mavericks,K. Irving makes 2-pt jump shot from 7 ft
+June122024DalvsBos,93-84,4,7:09.0,Dallas Mavericks,Defensive rebound by D. Lively
+June122024DalvsBos,93-87,4,7:01.0,Dallas Mavericks,P. Washington makes 3-pt jump shot from 23 ft
+June122024DalvsBos,93-87,4,6:39.0,Dallas Mavericks,Defensive rebound by P. Washington
+June122024DalvsBos,93-87,4,6:24.0,Boston Celtics,Defensive rebound by J. Brown
+June122024DalvsBos,93-88,4,6:11.0,Dallas Mavericks,K. Irving makes free throw 1 of 3
+June122024DalvsBos,93-89,4,6:11.0,Dallas Mavericks,K. Irving makes free throw 2 of 3
+June122024DalvsBos,93-90,4,6:11.0,Dallas Mavericks,K. Irving makes free throw 3 of 3
+June122024DalvsBos,93-90,4,5:34.0,Boston Celtics,Defensive rebound by J. Tatum
+June122024DalvsBos,93-90,4,5:25.0,Dallas Mavericks,Defensive rebound by D. Lively
+June122024DalvsBos,93-90,4,4:55.0,Boston Celtics,Defensive rebound by J. Brown
+June122024DalvsBos,93-90,4,4:24.0,Dallas Mavericks,Defensive rebound by J. Green
+June122024DalvsBos,93-90,4,4:15.0,Boston Celtics,Defensive rebound by J. Tatum
+June122024DalvsBos,93-90,4,4:12.0,Dallas Mavericks,Instant Replay
+June122024DalvsBos,93-90,4,3:51.0,Dallas Mavericks,Defensive rebound by D. Lively
+June122024DalvsBos,93-92,4,3:37.0,Dallas Mavericks,K. Irving makes 2-pt jump shot from 17 ft
+June122024DalvsBos,93-92,4,3:08.0,Boston Celtics,Offensive rebound by J. Brown
+June122024DalvsBos,95-92,4,3:08.0,Boston Celtics,J. Brown makes 2-pt layup at rim
+June122024DalvsBos,98-92,4,2:48.0,Boston Celtics,D. White makes 3-pt jump shot from 26 ft
+June122024DalvsBos,98-93,4,2:32.0,Dallas Mavericks,K. Irving makes free throw 1 of 2
+June122024DalvsBos,98-94,4,2:32.0,Dallas Mavericks,K. Irving makes free throw 2 of 2
+June122024DalvsBos,100-94,4,2:17.0,Boston Celtics,J. Tatum makes 2-pt dunk from 2 ft
+June122024DalvsBos,100-94,4,1:57.0,Boston Celtics,Defensive rebound by D. White
+June122024DalvsBos,100-94,4,1:55.0,Dallas Mavericks,Offensive rebound by D. Lively
+June122024DalvsBos,100-96,4,1:55.0,Dallas Mavericks,D. Lively makes 2-pt dunk at rim
+June122024DalvsBos,100-96,4,1:30.0,Dallas Mavericks,Defensive rebound by T. Hardaway
+June122024DalvsBos,100-98,4,1:20.0,Dallas Mavericks,D. Lively makes 2-pt dunk at rim
+June122024DalvsBos,102-98,4,1:01.0,Boston Celtics,J. Brown makes 2-pt jump shot from 21 ft
+June122024DalvsBos,102-98,4,0:46.0,Boston Celtics,Defensive rebound by A. Horford
+June122024DalvsBos,102-98,4,0:22.0,Boston Celtics,Defensive rebound by Team
+June122024DalvsBos,103-98,4,0:22.0,Boston Celtics,D. White makes free throw 1 of 2
+June122024DalvsBos,104-98,4,0:22.0,Boston Celtics,D. White makes free throw 2 of 2
+June122024DalvsBos,104-98,4,0:16.0,Boston Celtics,Defensive rebound by J. Brown
+June122024DalvsBos,105-98,4,0:14.0,Boston Celtics,J. Tatum makes free throw 1 of 2
+June122024DalvsBos,106-98,4,0:14.0,Boston Celtics,J. Tatum makes free throw 2 of 2
+June122024DalvsBos,106-98,4,0:10.0,Dallas Mavericks,Offensive rebound by Team
+June122024DalvsBos,106-99,4,0:10.0,Dallas Mavericks,P. Washington makes free throw 2 of 2
