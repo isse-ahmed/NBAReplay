@@ -13,7 +13,7 @@ import fs from "node:fs";
 
 //URL of the Play-by-play on the Basketball Reference Website
 const url =
-  "https://www.basketball-reference.com/boxscores/pbp/202406120DAL.html";
+  "https://www.basketball-reference.com/boxscores/pbp/201606190GSW.html";
 const response = await got(url);
 
 function main() {
@@ -56,7 +56,10 @@ function main() {
 
   //Creating file path from team names and date
   filePath = filePath.concat(awayTeam.replaceAll(" ", ""), "vs");
-  filePath = filePath.concat(homeTeam.replaceAll(" ", ""), gameDate.replaceAll(",","").replaceAll(":",""));
+  filePath = filePath.concat(
+    homeTeam.replaceAll(" ", ""),
+    gameDate.replaceAll(",", "").replaceAll(":", "")
+  );
   filePath = filePath.concat(".txt");
 
   //Creating GameID

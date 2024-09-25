@@ -6,6 +6,12 @@
   width: 100%;
 }
 
+.game-select-section{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 #games-list {
   color: black;
   width: 200px;
@@ -13,4 +19,9 @@
 
 .import-button {
   color: black;
+}
+
+
+option{
+  color:black;
 }

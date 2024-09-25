@@ -21,7 +21,7 @@ def main():
         cursor = connection.cursor()
 
         #Opening the data file
-        nbaFile = open("BostonCelticsvsDallasMavericks830PMJune122024.txt",'r')
+        nbaFile = open("./games/ClevelandCavaliersvsGoldenStateWarriors800PMJune192016.txt",'r')
 
         #Skipping header
         nbaFile.readline()

@@ -1,14 +1,12 @@
 .main-container {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(250px, 1fr));
-  grid-template-rows: auto;
+  display: flex;
+  flex-direction: column;
   gap: 20px;
   margin-left: 20px;
   margin-right: 20px;
 }
 
 .button-container {
-  grid-column: 1/-1;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -38,4 +36,13 @@
 
 .game-info-date {
   font-size: 12px;
+}
+
+label{
+  color: var(--secondary-color);
+  font-weight: bold;
+}
+
+legend{
+  color: black;
 }
