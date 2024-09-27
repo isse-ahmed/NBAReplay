@@ -3,7 +3,7 @@ const express = require("express");
 const router = express.Router();
 const validUrl = require("valid-url");
 
-//Used to check if a game is playing
+//Variable to track if a game is playing
 let gameStatus = {
   gameId: null,
   status: "idle", //in-progress or idle
@@ -38,9 +38,10 @@ exports.getAllGames = async (req, res) => {
 
 //Start playing NBA game by Id given a URL
 exports.startGameById = async (req, res) => {
+  //Parsing input from URL
   const game_id = req.params.id;
   const url = req.query.url;
-  console.log(game_id);
+
   if (!validUrl.isUri(url)) {
     return res.status(400).json({ error: "Invalid URL" });
   }
@@ -70,7 +71,7 @@ exports.startGameById = async (req, res) => {
     //Sending a success response
     res.status(200).json({ message: "Game Started" });
 
-    (async () => {
+    async () => {
       for (const play of plays) {
         console.log(`Sending ${play.score} to ${url}`);
         await new Promise((r) => setTimeout(r, 2000));
@@ -78,9 +79,8 @@ exports.startGameById = async (req, res) => {
 
       gameStatus.gameId = null;
       gameStatus.status = "idle";
-    })();
+    };
   } catch (error) {
-    console.log("ERROR");
     res.status(500).json({ error: "Database Error" });
   }
 };

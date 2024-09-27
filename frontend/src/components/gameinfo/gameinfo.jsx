@@ -21,7 +21,9 @@ function GameInfo({ gameId, games }) {
   return (
     <>
       <div className="game-info">
-        <p className="game-info-text">Selected Game: {selectedGame.game_id}</p>
+        <p className="game-info-text">
+          {selectedGame.away_team} @ {selectedGame.home_team}
+        </p>
         <p className="game-info-text game-info-date">
           Game Date: {selectedGame.game_date}
         </p>

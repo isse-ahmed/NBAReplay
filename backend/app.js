@@ -3,7 +3,7 @@ const cors = require("cors");
 const app = express();
 const port = 3010;
 
-//Setting up cors to allow other applications to use the api's
+//Setting up cors to allow applications on other domains to access api
 app.use(cors());
 
 // Middleware
